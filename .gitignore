@@ -1,0 +1,5 @@
+keep.txt
+.log
+/build
+/build/.log 
+# 버젼관리 안할 파일들
